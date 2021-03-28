@@ -73,10 +73,10 @@ const Footer = () => {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to='/' onClick={toggleHome}>
-              fluencify
+              romblr
             </SocialLogo>
             <WebsiteRights>
-              fluencify © {new Date().getFullYear()} All rights reserved.
+              romblr © {new Date().getFullYear()} All rights reserved.
             </WebsiteRights>
             <SocialIcons>
               <SocialIconLink href='#' target='_blank' aria-label='Facebook'>
